@@ -1,6 +1,7 @@
 # DL-Final
 
 Team members:
+
 Igali Ayan: Team leading, researching, coding
 
 Barlykov Beket: Coding, audio preprocessing 
