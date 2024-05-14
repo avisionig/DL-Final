@@ -2,7 +2,9 @@
 
 Team members:
 Igali Ayan: Team leading, researching, coding
+
 Barlykov Beket: Coding, audio preprocessing 
+
 Bekbolat Yernar: Coding, Dataset collection
 
 Presentation link: https://www.canva.com/design/DAGFLiLRa_U/8c6fKfcnpioTZnRk2zXeuQ/edit?utm_content=DAGFLiLRa_U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
